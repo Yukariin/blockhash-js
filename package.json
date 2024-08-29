@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/commonsmachinery/blockhash-js.git"
   },
+  "license": "MIT",
   "scripts": {
     "test": "mocha"
   },
@@ -37,5 +38,7 @@
     "mocha": "*",
     "png-js": "^0.1.1"
   },
-  "license": "MIT"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
