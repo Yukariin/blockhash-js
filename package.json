@@ -1,13 +1,13 @@
 {
-  "name": "blockhash",
-  "version": "0.3.0",
-  "homepage": "https://github.com/Yukariin/blockhash-js",
-  "author": "Commons Machinery <dev@commonsmachinery.se>",
-  "description": "Perceptual image hash calculation tool",
+  "name": "@yukariin/blockhash",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yukariin/blockhash-js.git"
+    "url": "https://github.com/yukariin/blockhash-js.git"
   },
+  "version": "0.3.0",
+  "homepage": "https://github.com/yukariin/blockhash-js",
+  "author": "Commons Machinery <dev@commonsmachinery.se>",
+  "description": "Perceptual image hash calculation tool",
   "license": "MIT",
   "scripts": {
     "test": "mocha"
